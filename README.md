@@ -1,5 +1,5 @@
 # Assignment-1-Introduction-to-Computing-HK251
-Infinity Castle Battle (Game Mechanism Simulation)
+## Infinity Castle Battle (Game Mechanism Simulation)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B" />
